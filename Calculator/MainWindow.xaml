@@ -30,7 +30,8 @@
         <Button x:Name="actionAcButton"
                 Content="AC"
                 Grid.Row="1"
-                Margin="5"/>
+                Margin="5"
+                Background="#444444"/>
         <Button x:Name="actionNegativeButton"
                 Content="+/-"
                 Grid.Row="1"
